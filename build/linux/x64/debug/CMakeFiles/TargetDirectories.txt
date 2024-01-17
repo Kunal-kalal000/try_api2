@@ -1,0 +1,14 @@
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/install.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/CMakeFiles/try_api.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/xceltec-97/Desktop/try_api/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
